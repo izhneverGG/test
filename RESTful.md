@@ -175,7 +175,7 @@ DELETE www.zhihu.com/api/v4/answers/440113990	//删除回答
 ```
 
 以上是狭义的理解——“资源的CRUD”。
-
+REST有个核心概念，"超媒体即应用状态引擎（hypermedia as the engine of application state）"，要求在表述格式里边加入链接来引导客户端，但是一般用不到，有兴趣可以看一看。
 
 
 参考：
